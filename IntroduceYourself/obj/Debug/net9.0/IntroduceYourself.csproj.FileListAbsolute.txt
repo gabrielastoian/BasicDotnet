@@ -1,0 +1,15 @@
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/bin/Debug/net9.0/IntroduceYourself
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/bin/Debug/net9.0/IntroduceYourself.deps.json
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/bin/Debug/net9.0/IntroduceYourself.runtimeconfig.json
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/bin/Debug/net9.0/IntroduceYourself.dll
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/bin/Debug/net9.0/IntroduceYourself.pdb
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/obj/Debug/net9.0/IntroduceYourself.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/obj/Debug/net9.0/IntroduceYourself.AssemblyInfoInputs.cache
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/obj/Debug/net9.0/IntroduceYourself.AssemblyInfo.cs
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/obj/Debug/net9.0/IntroduceYourself.csproj.CoreCompileInputs.cache
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/obj/Debug/net9.0/IntroduceYourself.sourcelink.json
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/obj/Debug/net9.0/IntroduceYourself.dll
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/obj/Debug/net9.0/refint/IntroduceYourself.dll
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/obj/Debug/net9.0/IntroduceYourself.pdb
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/obj/Debug/net9.0/IntroduceYourself.genruntimeconfig.cache
+/Users/gabi/Desktop/BasicDotnet/IntroduceYourself/obj/Debug/net9.0/ref/IntroduceYourself.dll
