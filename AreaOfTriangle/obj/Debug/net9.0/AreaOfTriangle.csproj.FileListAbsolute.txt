@@ -1,0 +1,15 @@
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/obj/Debug/net9.0/AreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/obj/Debug/net9.0/AreaOfTriangle.AssemblyInfoInputs.cache
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/obj/Debug/net9.0/AreaOfTriangle.AssemblyInfo.cs
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/obj/Debug/net9.0/AreaOfTriangle.csproj.CoreCompileInputs.cache
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/obj/Debug/net9.0/AreaOfTriangle.sourcelink.json
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/bin/Debug/net9.0/AreaOfTriangle
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/bin/Debug/net9.0/AreaOfTriangle.deps.json
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/bin/Debug/net9.0/AreaOfTriangle.runtimeconfig.json
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/bin/Debug/net9.0/AreaOfTriangle.dll
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/bin/Debug/net9.0/AreaOfTriangle.pdb
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/obj/Debug/net9.0/AreaOfTriangle.dll
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/obj/Debug/net9.0/refint/AreaOfTriangle.dll
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/obj/Debug/net9.0/AreaOfTriangle.pdb
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/obj/Debug/net9.0/AreaOfTriangle.genruntimeconfig.cache
+/Users/gabi/Desktop/BasicDotnet/AreaOfTriangle/obj/Debug/net9.0/ref/AreaOfTriangle.dll
