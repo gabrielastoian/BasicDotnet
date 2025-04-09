@@ -1,0 +1,15 @@
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/bin/Debug/net9.0/ConsoleApp
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/bin/Debug/net9.0/ConsoleApp.dll
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/obj/Debug/net9.0/ConsoleApp.sourcelink.json
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/obj/Debug/net9.0/ConsoleApp.dll
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/gabi/Desktop/BasicDotnet/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll
