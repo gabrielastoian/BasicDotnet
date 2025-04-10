@@ -1,0 +1,15 @@
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/bin/Debug/net9.0/Watchtower challenge
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/bin/Debug/net9.0/Watchtower challenge.deps.json
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/bin/Debug/net9.0/Watchtower challenge.runtimeconfig.json
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/bin/Debug/net9.0/Watchtower challenge.dll
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/bin/Debug/net9.0/Watchtower challenge.pdb
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/obj/Debug/net9.0/Watchtower challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/obj/Debug/net9.0/Watchtower challenge.AssemblyInfoInputs.cache
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/obj/Debug/net9.0/Watchtower challenge.AssemblyInfo.cs
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/obj/Debug/net9.0/Watchtower challenge.csproj.CoreCompileInputs.cache
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/obj/Debug/net9.0/Watchtower challenge.sourcelink.json
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/obj/Debug/net9.0/Watchtower challenge.dll
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/obj/Debug/net9.0/refint/Watchtower challenge.dll
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/obj/Debug/net9.0/Watchtower challenge.pdb
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/obj/Debug/net9.0/Watchtower challenge.genruntimeconfig.cache
+/Users/gabi/Desktop/BasicDotnet/Watchtower challenge/obj/Debug/net9.0/ref/Watchtower challenge.dll
