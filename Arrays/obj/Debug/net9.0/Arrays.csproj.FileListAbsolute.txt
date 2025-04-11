@@ -1,0 +1,15 @@
+/Users/gabi/Desktop/BasicDotnet/Arrays/bin/Debug/net9.0/Arrays
+/Users/gabi/Desktop/BasicDotnet/Arrays/bin/Debug/net9.0/Arrays.deps.json
+/Users/gabi/Desktop/BasicDotnet/Arrays/bin/Debug/net9.0/Arrays.runtimeconfig.json
+/Users/gabi/Desktop/BasicDotnet/Arrays/bin/Debug/net9.0/Arrays.dll
+/Users/gabi/Desktop/BasicDotnet/Arrays/bin/Debug/net9.0/Arrays.pdb
+/Users/gabi/Desktop/BasicDotnet/Arrays/obj/Debug/net9.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabi/Desktop/BasicDotnet/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfoInputs.cache
+/Users/gabi/Desktop/BasicDotnet/Arrays/obj/Debug/net9.0/Arrays.AssemblyInfo.cs
+/Users/gabi/Desktop/BasicDotnet/Arrays/obj/Debug/net9.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/gabi/Desktop/BasicDotnet/Arrays/obj/Debug/net9.0/Arrays.sourcelink.json
+/Users/gabi/Desktop/BasicDotnet/Arrays/obj/Debug/net9.0/Arrays.dll
+/Users/gabi/Desktop/BasicDotnet/Arrays/obj/Debug/net9.0/refint/Arrays.dll
+/Users/gabi/Desktop/BasicDotnet/Arrays/obj/Debug/net9.0/Arrays.pdb
+/Users/gabi/Desktop/BasicDotnet/Arrays/obj/Debug/net9.0/Arrays.genruntimeconfig.cache
+/Users/gabi/Desktop/BasicDotnet/Arrays/obj/Debug/net9.0/ref/Arrays.dll
